@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonas Maria Ienco</h1>
+<h1 align="center">Hi 👋, I'm Jonas M. Ienco</h1>
 <h4 align="center">A passionate frontend developer from Germany</h4>
 
 👨‍💻 About Me
