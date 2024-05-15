@@ -41,7 +41,7 @@ Passionate about crafting captivating user experiences, I'm fully immersed in fr
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasienco&show_icons=true&locale=en&layout=compact" alt="jonasienco" /></p>
 <br>
 
-My latest group project from the Webdev Bootcamp: https://wbspokemonfight.netlify.app/
+My latest group project from the Webdev Bootcamp I was attending: https://wbspokemonfight.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
  📫 How to reach me: https://www.linkedin.com/in/jonas-m-i-545778178/
