@@ -13,6 +13,8 @@ Passionate about crafting captivating user experiences, I'm fully immersed in fr
 
 **Mastering HTML5, CSS3, and JavaScript fundamentals. Expanding proficiency in React.js and Tailwind CSS for advanced frontend development. Exploring backend development with Node.js, Express, and PostgreSQL. Deploying projects efficiently using cloud services. Prioritizing security and best practices for web projects.**
 
+My latest group project from the Webdev Bootcamp I was attending (built in React+Tailwind CSS): https://wbspokemonfight.netlify.app/
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -41,7 +43,6 @@ Passionate about crafting captivating user experiences, I'm fully immersed in fr
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonasienco&show_icons=true&locale=en&layout=compact" alt="jonasienco" /></p>
 <br>
 
-My latest group project from the Webdev Bootcamp I was attending (built in React+Tailwind CSS): https://wbspokemonfight.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
  📫 How to reach me: https://www.linkedin.com/in/jonas-m-i-545778178/
