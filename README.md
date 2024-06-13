@@ -13,7 +13,7 @@ Passionate about crafting captivating user experiences, I'm fully immersed in fr
 
 **Mastering HTML5, CSS3, and JavaScript fundamentals. Expanding proficiency in React.js and Tailwind CSS for advanced frontend development. Exploring backend development with Node.js, Express, and PostgreSQL. Deploying projects efficiently using cloud services. Prioritizing security and best practices for web projects.**
 
-My latest group project from the Webdev Bootcamp I was attending (built in React+Tailwind CSS): https://wbspokemonfight.netlify.app/
+My latest group project from the Webdev Bootcamp I was attending (built in React+Tailwind CSS): https://medibridge.netlify.app/home
 
 
 <h3 align="left">Languages and Tools:</h3>
